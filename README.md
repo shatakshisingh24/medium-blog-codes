@@ -1,1 +1,3 @@
-# medium-blog-codes
+#Code file-Medium Blog
+--Neural Networks
+--COVID Detection
